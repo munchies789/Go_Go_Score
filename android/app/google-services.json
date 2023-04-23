@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "674674039283",
+    "project_id": "go-goal-score-8631b",
+    "storage_bucket": "go-goal-score-8631b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674674039283:android:5840c3ff37f99ec4b7da86",
+        "android_client_info": {
+          "package_name": "com.example.go_goal_score"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674674039283-gg8t44397o60ngqs1kglpn2hnr4q7c2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpSnemiC0FCNTYjvpcm3-1ikuerudzxpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674674039283-gg8t44397o60ngqs1kglpn2hnr4q7c2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
